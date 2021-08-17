@@ -6,7 +6,7 @@ Click Below Image to Deploy
 ## DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)]
 # Channel
-You can also join our Channel : [Tamil BotZ](https://t.me/TN_Bots) 🤖🤖🤖
+You can also join our Channel : [TN Bots](https://t.me/TN_Bots) 🤖🤖🤖
 
 # Group
 You can also join our Group : [TN Support](https://t.me/TN_Support) 🤝🏻
