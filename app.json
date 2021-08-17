@@ -17,11 +17,11 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "Im_professorr"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "861055237"
+      "value": "1631113776"
     },
     "START_PHOTTO": {
       "description": "Telegraph img url For Start Cmd",
@@ -29,11 +29,11 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "No_OnE_Kn0wS_Me"
+      "value": ""
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "Hitsuka"
+      "value": "Im_professorr"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,7 +41,7 @@
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "1631113776"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
@@ -49,15 +49,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "80954677 861055237"
+      "value": ""
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "80954677 861055237"
+      "value": "1631113776"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "80954677 861055237"
+      "value": "1631113776"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
