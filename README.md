@@ -15,4 +15,5 @@ You can also join our Group : [Tamil Support](https://t.me/TamilSupport) 🤝�
 Report your problem along with your name to [this person](https://t.me/iMvEtRi) 👨🏻‍💻
 
 # Credits
-@Im_Krrish | @Im_professorr
+[@Im_Krrish](https://t.me/Im_Krrish) | [@Im_professorr](
+https://t.me/Im_professorr)
